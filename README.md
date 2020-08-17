@@ -1,9 +1,9 @@
 
 The project data concerns a binary classification problem where you have to predict wether or not a company will go bankrupt, given some financial indicators.
 
-The data has 64 numerical features and one binary label (1 == bankrupt, 0 == not bankrupt). The dataset presents some typical real-life characteristics such as missing data, weird column names and feature values, correlated features, unbalanced classes, etc. Data analysis and preparation are part of the project... it's not all about prediction! :-)
+The data has 64 numerical features and one binary label (1 == bankrupt, 0 == not bankrupt). The dataset presents some typical real-life characteristics such as missing data, weird column names and feature values, correlated features, unbalanced classes, etc. Data analysis and preparation are part of the project... it's not all about prediction!
 
-I expect you to do some preliminary data analysis, (motivated) data preprocessing, and finally model selection to choose the best model / hyperparameter configuration. What is "best" is up to you (i.e., what metric to use), as is up to you the portfolio of models to try.
+Preliminary data analysis, (motivated) data preprocessing, and finally model selection to choose the best model / hyperparameter configuration to be done. Different Metric, portfolio of models to try.
 
 You can use both models we have seen during in class or other methods. A good starting point to get inspiration about models is sklearn's documentation about classification.
 
