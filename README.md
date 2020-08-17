@@ -1,4 +1,3 @@
-Dear all, here you find a dataset you can use for the group project. Please form groups of at most 5 people and deliver the project (better if in Jupyter Notebook form) by the end of November. The project is worth 40% of the final grade.
 
 The project data concerns a binary classification problem where you have to predict wether or not a company will go bankrupt, given some financial indicators.
 
